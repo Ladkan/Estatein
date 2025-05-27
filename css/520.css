@@ -1,0 +1,46 @@
+@media (max-width: 520px) {
+  .hero .main .float {
+    top: 40%;
+  }
+  .hero .main .float img {
+    width: 117px;
+    left: -35%;
+  }
+  .hero .main .right img {
+    height: 302px;
+  }
+  .hero .main .left .content h1 {
+    font-size: 28px;
+  }
+  .hero .main .left .content p {
+    font-size: 14px;
+  }
+  header nav .logo img {
+    height: 28px;
+  }
+  header nav .burger {
+    height: 22px;
+    width: 34px;
+  }
+  .detail .img-container .img-bar:nth-child(4), .detail .img-container .img-bar :nth-child(5), .detail .img-container .img-bar :nth-child(6), .detail .img-container .img-bar :nth-child(7), .detail .img-container .img-bar :nth-child(8), .detail .img-container .img-bar :nth-child(9) {
+    display: none;
+  }
+  .detail .img-container .img-view img:nth-child(2) {
+    display: none;
+  }
+  .locations .img_container {
+    padding: 24px;
+  }
+  .locations .img_container img {
+    max-width: 149px;
+  }
+  .locations .img_container img.haf {
+    max-width: 69px;
+  }
+  .locations .img_container .bottom {
+    flex-direction: column;
+  }
+  .locations .img_container .bottom img {
+    max-width: 309px;
+  }
+}/*# sourceMappingURL=520.css.map */

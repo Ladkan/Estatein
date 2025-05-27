@@ -1,0 +1,1048 @@
+@media (max-width: 1440px){
+
+    //Home
+
+    .properties{
+        .card{
+            padding: 30px !important;
+            .cover{
+                height: 255px;
+            }
+            .text{
+                .title{
+                    font-size: 20px;
+                }
+                .desc{
+                    font-size: 16px;
+                }
+            }
+            .pills{
+                column-gap: 6px;
+                .pill{
+                    padding: 6px 14px;
+                    img{
+                        height: 20px;
+                    }
+                    p{
+                        font-size: 14px;
+                    }
+                }
+            }
+            .bottom{
+                column-gap: 40px;
+                .price{
+                    p{
+                        font-size: 14px;
+                        &.price{
+                            font-size: 20px;
+                        }
+                    }
+                }
+                a{
+                    padding: 14px 20px;
+                    font-size: 14px;
+                }
+            }
+        }
+    }
+
+    .testimonial{
+        .card{
+            .text{
+                .title{
+                    font-size: 20px;
+                }
+                .content{
+                    font-size: 16px;
+                }
+            }
+            .rating{
+                .img_wrapper{
+                    img{
+                    height: 20px;
+                }  
+                }
+            }
+            .person{
+                column-gap: 10px;
+                img{
+                    height: 50px;
+                }
+                .info{
+                    .name{
+                        font-size: 18px;
+                    }
+                    .location{
+                        font-size: 16px;
+                    }
+                }
+            }
+        }
+    }
+
+    .faq{
+        .title{
+            font-size: 20px;
+        }
+        .content{
+            font-size: 16px;
+        }
+        button{
+            font-size: 14px;
+            padding: 14px 20px;
+        }
+    }
+
+    .hero{
+        .main{
+            padding-left: 80px;
+            .right{
+                img{
+                    height: 662px;
+                }
+            }
+            .left{
+                row-gap: 50px;
+                .content{
+                    h1{
+                        font-size: 46px;
+                        line-height: 120%;
+                    }
+                    p{
+                        font-size: 16px;
+                    }
+                }
+                .btns{
+                    .btn_gray{
+                        padding: 14px 20px;
+                        font-size: 14px;
+                    }
+                    .btn_purple{
+                        padding: 14px 20px;
+                        font-size: 14px;
+                    }
+                }
+                .stats{
+                    column-gap: 16px;
+                    .stat{
+                        padding: 14px 20px;
+                        h3{
+                            font-size: 30px;
+                        }
+                        p{
+                           font-size: 16px; 
+                        }
+                    }
+                }
+            }
+        }
+        .sub{
+            .items{
+                .item{
+                    padding: 30px 16px;
+                    p{
+                        font-size: 16px;
+                    }
+                    img{
+                        height: 60px;
+                    }
+                }
+            }
+        }
+    }
+
+    //About
+
+    .hero_about{
+        column-gap: 60px;
+        padding: 70px 80px;
+        img{
+            max-width: 610px;
+        }
+        .content{
+            .text{
+                h2{
+                    font-size: 38px;
+                }
+                p{
+                    font-size: 16px;
+                }
+            }
+            .stats{
+                column-gap: 16px;
+                .stat{
+                    padding: 20px;
+                    h3{
+                        font-size: 30px;
+                    }
+                    p{
+                       font-size: 16px; 
+                    }
+                }
+            }
+        }
+    }
+
+    .values{
+        .items{
+            padding: 50px;
+            gap: 24px;
+            .item{
+                padding-inline: 24px;
+                .about_top{
+                    column-gap: 10px;
+                    p{
+                        font-size: 20px;
+                    }
+                    .img_wrapper{
+                        padding: 16px;
+                        img{
+                            height: 28px;
+                        }
+                    }
+                }
+                .bottom{
+                    font-size: 18px;
+                }
+            }
+        }
+    }
+
+    .achievements{
+        .items{
+            column-gap: 30px;
+            .item{
+                padding: 40px;
+                .title{
+                    font-size: 24px;
+                    margin-bottom: 24px;
+                }
+                .content{
+                    font-size: 16px;
+                }
+            }
+        }
+    }
+
+    .experience{
+        .item{
+            max-width: 413px;
+            .step{
+                padding: 14px 16px;
+                font-size: 16px;
+            }
+            .content{
+                padding: 40px;
+                .title{
+                    font-size: 20px;
+                    margin-bottom: 16px;
+                }
+                .text{
+                    font-size: 16px;
+                }
+            }
+        }
+    }
+
+    .team{
+        .items{
+            column-gap: 20px;
+            row-gap: 20px;
+            .item{
+                max-width: 305px;
+                padding: 24px;
+                .cover{
+                    img{
+                        max-width: 257px;
+                    }
+                    .icon_wrapper{
+                        padding: 10px 20px;
+                        img{
+                            height: 20px;
+                        }
+                    }
+                }
+                .info{
+                    margin-bottom: 20px;
+                    .name{
+                        font-size: 20px;
+                    }
+                    .position{
+                        font-size: 16px;
+                    }
+                }
+                .hello{
+                    padding: 10px 10px 10px 20px;
+                    p{
+                        font-size: 16px;
+                    }
+                    .icon_wrapper{
+                        padding: 8px;
+                        img{
+                            height: 20px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .clients{
+        .cards{
+            column-gap: 40px;
+            .card{
+                padding: 40px;
+                row-gap: 30px;
+                .top{
+                    .title{
+                        p{
+                            font-size: 16px;
+                        }
+                        h4{
+                          font-size: 24px;  
+                        }
+                    }
+                    button{
+                        padding: 14px 20px;
+                        font-size: 14px;
+                    }
+                }
+                .middle{
+                    .item{
+                        &:nth-child(1){
+                            padding-right: 20px;
+                        }
+                        &:nth-child(2){
+                            padding-left: 20px;
+                        }
+                        .title{
+                            font-size: 14px;
+                            img{
+                                height: 20px;
+                            }
+                        }
+                        .name{
+                            font-size: 16px;
+                        }
+                    }
+                }
+                .bottom{
+                    padding: 24px;
+                    .what{
+                       font-size: 16px; 
+                    }
+                    .text{
+                        font-size: 16px;
+                    }
+                }
+            }
+        }
+
+        .pagination{
+            padding-top: 16px;
+            p{
+                font-size: 16px;
+            }
+            .arrows{
+                button{
+                    padding: 10px;
+                    img{
+                       height: 24px; 
+                    }
+                }
+            }
+        }
+    }
+
+    //Properties
+
+    .hero_properties{
+        .text{
+            padding: 100px 80px;
+            h2{
+                font-size: 38px;
+                margin-bottom: 10px;
+            }
+            p{
+                font-size: 16px;
+            }
+        }
+        .search_wrapper{
+            padding-inline: 80px;
+            bottom: 40px;
+            .search_controls{
+                .wrapper{
+                    padding-inline: 90px;
+                    .search_bar_wrapper{
+                        padding: 10px;
+                        .search_bar{
+                            padding: 16px 16px 16px 20px;
+                            input{
+                                font-size: 20px;
+                            }
+                            button{
+                                font-size: 14px;
+                                padding: 14px 20px;
+                                img{
+                                    height: 20px;
+                                }
+                            }
+                        }
+                    }
+                }
+                .selects{
+                    .input_wrapper{
+                        padding: 12px 14px;
+                        img{
+                            height: 20px;
+                            padding-right: 8px;
+                        }
+                        select{
+                            padding-left: 8px;
+                            font-size: 14px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .request{
+        form{
+            padding: 50px;
+            gap: 30px;
+        }
+
+        .input_group{
+            row-gap: 14px;
+            label{
+                font-size: 16px;
+            }
+            input[type=text], select, textarea{
+                font-size: 14px;
+                padding: 16px 20px;
+            }
+            &.checkbox{
+                p{
+                    font-size: 16px;
+                    .checkmark{
+                        height: 24px;
+                        width: 24px;
+                    }
+                }
+            }
+        }
+
+        .radio_group{
+            row-gap: 14px;
+            label{
+                font-size: 16px;
+            }
+            .radio{
+                label{
+                    font-size: 14px;
+                    padding: 16px 20px;
+                    img{
+                        height: 20px;
+                    }
+                    .checkmark{
+                        width: 10px;
+                        height: 10px;
+                    }
+                }
+            }
+        }
+
+        .bottom{
+            button{
+                font-size: 14px;
+                padding: 14px 34px;
+            }
+        }
+
+        .row{
+            gap: 30px;
+        }
+
+        .col{
+            gap: 30px;
+        }
+
+    }
+
+    //Detail
+
+    .detail{
+        padding: 100px 80px;
+        row-gap: 40px;
+        .top{
+            .text{
+                font-size: 24px;
+                span{
+                    font-size: 14px;
+                    padding: 8px;
+                    gap: 4px;
+                    img{
+                        height: 20px;
+                    }
+                }
+            }
+            .price{
+                p{
+                    font-size: 14px;
+                }
+                h4{
+                    font-size: 20px;
+                }
+            }
+        }
+
+        .img-container{
+            gap: 20px;
+            padding: 40px;
+            .img_w{
+                gap: 20px;
+            }
+            .img-bar{
+                padding: 10px;
+                gap: 10px;
+                img{
+                    max-width: 122px;
+                }
+            }
+            .img-view{
+                img{
+                    max-width: 585px;
+                }
+            }
+            .wrapper{
+                .img-controls{
+                    padding: 8px;
+                    img{
+                        padding: 10px;
+                    }
+                    .lines{
+                        gap: 3px;
+                        span{
+                            height: 3px;
+                            width: 11px;
+                        }
+                    }
+                }
+            }
+        }
+
+        .info{
+            gap: 20px;
+            .desc{
+                padding: 40px;
+                gap: 40px;
+                .title{
+                    font-size: 20px;
+                }
+                .desc_text{
+                    font-size: 16px;
+                }
+                .items{
+                    padding-top: 16px;
+                    .item{
+                        &:nth-child(1){
+                            padding-right: 10px;
+                            border-right: 1px solid var(--gray_15);
+                        }
+                        &:nth-child(2){
+                            padding-right: 10px;
+                            padding-left: 10px;
+                            border-right: 1px solid var(--gray_15);
+                        }
+                        &:nth-child(3){
+                            padding-left: 10px;
+                        }
+                    }
+                }
+            }
+            .features{
+                padding: 40px;
+                gap: 40px;
+                .title{
+                    font-size: 20px;
+                }
+                .items{
+                    row-gap: 20px;
+                    .item{
+                        padding: 14px 16px;
+                        font-size: 16px;
+                        img{
+                            height: 20px;
+                        }
+                    }
+                }
+            }
+        }
+
+    }
+
+    .inquire{
+        column-gap: 80px;
+        form{
+            padding: 50px;
+            gap: 30px;
+        .bottom{
+            button{
+                font-size: 14px;
+                padding: 14px 34px;
+            }
+        }
+
+        .row{
+            gap: 30px;
+        }
+
+        .input_group{
+            row-gap: 14px;
+            label{
+                font-size: 16px;
+            }
+            input[type=text], select, textarea{
+                font-size: 14px;
+                padding: 16px 20px;
+            }
+            &.checkbox{
+                p{
+                    font-size: 16px;
+                    .checkmark{
+                        height: 24px;
+                        width: 24px;
+                    }
+                }
+            }
+        }
+
+        }
+    }
+
+    .pricing{
+        .notice{
+            padding: 20px 40px;
+            .title{
+               font-size: 20px;
+               padding-right: 16px; 
+            }
+            .text{
+                font-size: 14px;
+                padding-left: 16px;
+            }
+        }
+
+        .content{
+            gap: 40px;
+            .price{
+                p{
+                    font-size: 16px;
+                }
+                span{
+                    font-size: 30px;
+                }
+            }
+            .details{
+                gap: 40px;
+                .box{
+                    padding: 40px;
+                    gap: 30px;
+                    .header{
+                        p{
+                            font-size: 20px;
+                        }
+                        button{
+                            padding: 14px 20px;
+                            font-size: 14px;
+                        }
+                    }
+                    .item{
+                        gap: 12px;
+                        label{
+                            font-size: 14px;
+                        }
+                        p{
+                            gap: 12px;
+                            font-size: 20px;
+                            span{
+                                padding: 6px 12px;
+                                font-size: 14px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+    }
+
+    //Services
+    
+    .hero_services{
+        .text{
+            padding: 100px 80px;
+            h2{
+                font-size: 38px;
+                margin-bottom: 10px;
+            }
+            p{
+                font-size: 16px;
+            }
+        }
+        .sub{
+            .items{
+                .item{
+                    padding: 30px 16px;
+                    p{
+                        font-size: 16px;
+                    }
+                    img{
+                        height: 60px;
+                    }
+                }
+            }
+        }
+    }
+
+    .property_{
+        .row{
+            gap: 20px;
+        }
+
+        .wrapper{
+            gap: 20px;
+        }
+
+        .info{
+             padding: 40px;
+             gap: 20px;
+             .top{
+                p{
+                    font-size: 24px;
+                }
+             }
+             p{
+                font-size: 16px;
+             }
+        }
+
+        .item{
+            padding: 40px;
+            gap: 20px;
+            p{
+                font-size: 18px;
+            }
+            .title{
+                gap: 18px;
+                p{
+                    font-size: 20px;
+                }
+                img{
+                    height: 60px;
+                }
+            }
+        }
+    }
+
+    .investment{
+        .text{
+            gap: 40px;
+            .box{
+                padding: 40px;
+                gap: 20px;
+                .title{
+                    font-size: 22px;
+                }
+                button{
+                    padding: 14px 20px;
+                    font-size: 14px;
+                }
+            }
+        }
+        .row{
+            gap: 20px;
+        }
+
+        .wrapper{
+            gap: 20px;
+        }
+
+        .item{
+            padding: 40px;
+            gap: 20px;
+            p{
+                font-size: 18px;
+            }
+            .title{
+                gap: 18px;
+                p{
+                    font-size: 20px;
+                }
+                img{
+                    height: 60px;
+                }
+            }
+        }
+    }
+
+    //Contact
+
+    .hero_contact{
+        .text{
+            padding: 100px 80px;
+            h2{
+                font-size: 38px;
+                margin-bottom: 10px;
+            }
+            p{
+                font-size: 16px;
+            }
+        }
+        .sub{
+            .items{
+                .item{
+                    padding: 30px 16px;
+                    p{
+                        font-size: 16px;
+                    }
+                    img{
+                        height: 60px;
+                    }
+                }
+            }
+        }
+    }
+
+    .contact{
+        form{
+            padding: 50px;
+            gap: 30px;
+        }
+
+        .input_group{
+            row-gap: 14px;
+            label{
+                font-size: 16px;
+            }
+            input[type=text], select, textarea{
+                font-size: 14px;
+                padding: 16px 20px;
+            }
+            &.checkbox{
+                p{
+                    font-size: 16px;
+                    .checkmark{
+                        height: 24px;
+                        width: 24px;
+                    }
+                }
+            }
+        }
+
+        .bottom{
+            button{
+                font-size: 14px;
+                padding: 14px 34px;
+            }
+        }
+
+        .row{
+            gap: 30px;
+        }
+    }
+
+    .locations{
+        .selector{
+            button{
+                padding: 14px 20px;
+                font-size: 14px;
+            }
+        }
+        .wrapper{
+            gap: 20px;
+        }
+        .location{
+            padding: 40px;
+            gap: 30px;
+            span{
+                font-size: 14px;
+            }
+            .top{
+                gap: 10px;
+            }
+            .title{
+                font-size: 24px;
+            }
+            .text{
+                font-size: 16px;
+            }
+            button{
+                padding: 14px 20px;
+                font-size: 14px;
+            }
+            .pills{
+                gap: 8px;
+                .pill{
+                    padding: 10px 16px;
+                    gap: 4px;
+                    font-size: 14px;
+                    img{
+                        height: 20px;
+                    }
+                }
+            }
+        }
+
+        .img_container{
+            padding: 60px;
+            img{
+                max-width: 569px;
+                &.haf{
+                    max-width: 274px;
+                }
+            }
+        }
+
+    }
+
+    //All
+
+    section{
+        padding: 60px 80px;
+        row-gap: 60px;
+        .text{
+            h2{
+               font-size: 38px;
+               margin-bottom: 15px; 
+            }
+            p{
+                font-size: 16px;
+            }
+        }
+
+        .top{
+            button{
+                font-size: 14px;
+                padding: 14px 20px;
+            }
+        }
+
+        .cards{
+            column-gap: 20px;
+            .card{
+                padding: 30px;
+                row-gap: 20px;   
+            }
+        }
+
+        .pagination{
+            padding-top: 16px;
+            p{
+                font-size: 16px;
+            }
+            .arrows{
+                button{
+                    padding: 10px;
+                    img{
+                       height: 24px; 
+                    }
+                }
+            }
+        }
+    }
+
+    footer{
+        .cta{
+            padding: 60px 80px;
+            .content{
+                h2{
+                    font-size: 38px;
+                    margin-bottom: 10px;
+                }
+                p{
+                   font-size: 16px; 
+                }
+            }
+            .btn{
+                padding: 14px 20px;
+                font-size: 14px;
+            }
+        }
+        .footer{
+            .top{
+                padding: 60px 80px;
+                .left{
+                    .logo{
+                        height: 34px;
+                        margin-bottom: 24px;
+                    }
+                    .input_wrapper{
+                        height: 52px;
+                        input{
+                            padding: 14px 20px;
+                            font-size: 14px;
+                        }
+                        button{
+                            img{
+                                height: 24px;
+                            }
+                        }
+                    }
+                }
+                .right{
+                    width: calc(100% - 326px);
+                    .item{
+                        p{
+                            font-size: 18px;
+                            margin-bottom: 24px;
+                        }
+                        ul{
+                            li{
+                                font-size: 16px;
+                                margin-bottom: 16px;
+                            }
+                        }
+                    }
+                }
+            }
+            .bottom{
+                padding: 12px 80px;
+                .left{
+                    font-size: 14px;
+                }
+                .right{
+                    column-gap: 8px;
+                    img{
+                        padding: 10px;
+                    }
+                }
+            }
+        }
+    }
+    
+    header{
+        .banner{
+            font-size: 14px;
+            height: 49px;
+        }
+        nav{
+            padding: 14px 80px;
+            font-size: 14px;
+            .logo{
+                img{
+                    height: 34px;
+                }
+            }
+            .links{
+                .link{
+                    margin-inline: 12px;
+                }
+            }
+            .btn{
+                padding: 14px 20px;
+            }
+        }
+    }
+}

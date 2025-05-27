@@ -1,0 +1,849 @@
+@media (max-width: 1440px) {
+  .properties .card {
+    padding: 30px !important;
+  }
+  .properties .card .cover {
+    height: 255px;
+  }
+  .properties .card .text .title {
+    font-size: 20px;
+  }
+  .properties .card .text .desc {
+    font-size: 16px;
+  }
+  .properties .card .pills {
+    -moz-column-gap: 6px;
+         column-gap: 6px;
+  }
+  .properties .card .pills .pill {
+    padding: 6px 14px;
+  }
+  .properties .card .pills .pill img {
+    height: 20px;
+  }
+  .properties .card .pills .pill p {
+    font-size: 14px;
+  }
+  .properties .card .bottom {
+    -moz-column-gap: 40px;
+         column-gap: 40px;
+  }
+  .properties .card .bottom .price p {
+    font-size: 14px;
+  }
+  .properties .card .bottom .price p.price {
+    font-size: 20px;
+  }
+  .properties .card .bottom a {
+    padding: 14px 20px;
+    font-size: 14px;
+  }
+  .testimonial .card .text .title {
+    font-size: 20px;
+  }
+  .testimonial .card .text .content {
+    font-size: 16px;
+  }
+  .testimonial .card .rating .img_wrapper img {
+    height: 20px;
+  }
+  .testimonial .card .person {
+    -moz-column-gap: 10px;
+         column-gap: 10px;
+  }
+  .testimonial .card .person img {
+    height: 50px;
+  }
+  .testimonial .card .person .info .name {
+    font-size: 18px;
+  }
+  .testimonial .card .person .info .location {
+    font-size: 16px;
+  }
+  .faq .title {
+    font-size: 20px;
+  }
+  .faq .content {
+    font-size: 16px;
+  }
+  .faq button {
+    font-size: 14px;
+    padding: 14px 20px;
+  }
+  .hero .main {
+    padding-left: 80px;
+  }
+  .hero .main .right img {
+    height: 662px;
+  }
+  .hero .main .left {
+    row-gap: 50px;
+  }
+  .hero .main .left .content h1 {
+    font-size: 46px;
+    line-height: 120%;
+  }
+  .hero .main .left .content p {
+    font-size: 16px;
+  }
+  .hero .main .left .btns .btn_gray {
+    padding: 14px 20px;
+    font-size: 14px;
+  }
+  .hero .main .left .btns .btn_purple {
+    padding: 14px 20px;
+    font-size: 14px;
+  }
+  .hero .main .left .stats {
+    -moz-column-gap: 16px;
+         column-gap: 16px;
+  }
+  .hero .main .left .stats .stat {
+    padding: 14px 20px;
+  }
+  .hero .main .left .stats .stat h3 {
+    font-size: 30px;
+  }
+  .hero .main .left .stats .stat p {
+    font-size: 16px;
+  }
+  .hero .sub .items .item {
+    padding: 30px 16px;
+  }
+  .hero .sub .items .item p {
+    font-size: 16px;
+  }
+  .hero .sub .items .item img {
+    height: 60px;
+  }
+  .hero_about {
+    -moz-column-gap: 60px;
+         column-gap: 60px;
+    padding: 70px 80px;
+  }
+  .hero_about img {
+    max-width: 610px;
+  }
+  .hero_about .content .text h2 {
+    font-size: 38px;
+  }
+  .hero_about .content .text p {
+    font-size: 16px;
+  }
+  .hero_about .content .stats {
+    -moz-column-gap: 16px;
+         column-gap: 16px;
+  }
+  .hero_about .content .stats .stat {
+    padding: 20px;
+  }
+  .hero_about .content .stats .stat h3 {
+    font-size: 30px;
+  }
+  .hero_about .content .stats .stat p {
+    font-size: 16px;
+  }
+  .values .items {
+    padding: 50px;
+    gap: 24px;
+  }
+  .values .items .item {
+    padding-inline: 24px;
+  }
+  .values .items .item .about_top {
+    -moz-column-gap: 10px;
+         column-gap: 10px;
+  }
+  .values .items .item .about_top p {
+    font-size: 20px;
+  }
+  .values .items .item .about_top .img_wrapper {
+    padding: 16px;
+  }
+  .values .items .item .about_top .img_wrapper img {
+    height: 28px;
+  }
+  .values .items .item .bottom {
+    font-size: 18px;
+  }
+  .achievements .items {
+    -moz-column-gap: 30px;
+         column-gap: 30px;
+  }
+  .achievements .items .item {
+    padding: 40px;
+  }
+  .achievements .items .item .title {
+    font-size: 24px;
+    margin-bottom: 24px;
+  }
+  .achievements .items .item .content {
+    font-size: 16px;
+  }
+  .experience .item {
+    max-width: 413px;
+  }
+  .experience .item .step {
+    padding: 14px 16px;
+    font-size: 16px;
+  }
+  .experience .item .content {
+    padding: 40px;
+  }
+  .experience .item .content .title {
+    font-size: 20px;
+    margin-bottom: 16px;
+  }
+  .experience .item .content .text {
+    font-size: 16px;
+  }
+  .team .items {
+    -moz-column-gap: 20px;
+         column-gap: 20px;
+    row-gap: 20px;
+  }
+  .team .items .item {
+    max-width: 305px;
+    padding: 24px;
+  }
+  .team .items .item .cover img {
+    max-width: 257px;
+  }
+  .team .items .item .cover .icon_wrapper {
+    padding: 10px 20px;
+  }
+  .team .items .item .cover .icon_wrapper img {
+    height: 20px;
+  }
+  .team .items .item .info {
+    margin-bottom: 20px;
+  }
+  .team .items .item .info .name {
+    font-size: 20px;
+  }
+  .team .items .item .info .position {
+    font-size: 16px;
+  }
+  .team .items .item .hello {
+    padding: 10px 10px 10px 20px;
+  }
+  .team .items .item .hello p {
+    font-size: 16px;
+  }
+  .team .items .item .hello .icon_wrapper {
+    padding: 8px;
+  }
+  .team .items .item .hello .icon_wrapper img {
+    height: 20px;
+  }
+  .clients .cards {
+    -moz-column-gap: 40px;
+         column-gap: 40px;
+  }
+  .clients .cards .card {
+    padding: 40px;
+    row-gap: 30px;
+  }
+  .clients .cards .card .top .title p {
+    font-size: 16px;
+  }
+  .clients .cards .card .top .title h4 {
+    font-size: 24px;
+  }
+  .clients .cards .card .top button {
+    padding: 14px 20px;
+    font-size: 14px;
+  }
+  .clients .cards .card .middle .item:nth-child(1) {
+    padding-right: 20px;
+  }
+  .clients .cards .card .middle .item:nth-child(2) {
+    padding-left: 20px;
+  }
+  .clients .cards .card .middle .item .title {
+    font-size: 14px;
+  }
+  .clients .cards .card .middle .item .title img {
+    height: 20px;
+  }
+  .clients .cards .card .middle .item .name {
+    font-size: 16px;
+  }
+  .clients .cards .card .bottom {
+    padding: 24px;
+  }
+  .clients .cards .card .bottom .what {
+    font-size: 16px;
+  }
+  .clients .cards .card .bottom .text {
+    font-size: 16px;
+  }
+  .clients .pagination {
+    padding-top: 16px;
+  }
+  .clients .pagination p {
+    font-size: 16px;
+  }
+  .clients .pagination .arrows button {
+    padding: 10px;
+  }
+  .clients .pagination .arrows button img {
+    height: 24px;
+  }
+  .hero_properties .text {
+    padding: 100px 80px;
+  }
+  .hero_properties .text h2 {
+    font-size: 38px;
+    margin-bottom: 10px;
+  }
+  .hero_properties .text p {
+    font-size: 16px;
+  }
+  .hero_properties .search_wrapper {
+    padding-inline: 80px;
+    bottom: 40px;
+  }
+  .hero_properties .search_wrapper .search_controls .wrapper {
+    padding-inline: 90px;
+  }
+  .hero_properties .search_wrapper .search_controls .wrapper .search_bar_wrapper {
+    padding: 10px;
+  }
+  .hero_properties .search_wrapper .search_controls .wrapper .search_bar_wrapper .search_bar {
+    padding: 16px 16px 16px 20px;
+  }
+  .hero_properties .search_wrapper .search_controls .wrapper .search_bar_wrapper .search_bar input {
+    font-size: 20px;
+  }
+  .hero_properties .search_wrapper .search_controls .wrapper .search_bar_wrapper .search_bar button {
+    font-size: 14px;
+    padding: 14px 20px;
+  }
+  .hero_properties .search_wrapper .search_controls .wrapper .search_bar_wrapper .search_bar button img {
+    height: 20px;
+  }
+  .hero_properties .search_wrapper .search_controls .selects .input_wrapper {
+    padding: 12px 14px;
+  }
+  .hero_properties .search_wrapper .search_controls .selects .input_wrapper img {
+    height: 20px;
+    padding-right: 8px;
+  }
+  .hero_properties .search_wrapper .search_controls .selects .input_wrapper select {
+    padding-left: 8px;
+    font-size: 14px;
+  }
+  .request form {
+    padding: 50px;
+    gap: 30px;
+  }
+  .request .input_group {
+    row-gap: 14px;
+  }
+  .request .input_group label {
+    font-size: 16px;
+  }
+  .request .input_group input[type=text], .request .input_group select, .request .input_group textarea {
+    font-size: 14px;
+    padding: 16px 20px;
+  }
+  .request .input_group.checkbox p {
+    font-size: 16px;
+  }
+  .request .input_group.checkbox p .checkmark {
+    height: 24px;
+    width: 24px;
+  }
+  .request .radio_group {
+    row-gap: 14px;
+  }
+  .request .radio_group label {
+    font-size: 16px;
+  }
+  .request .radio_group .radio label {
+    font-size: 14px;
+    padding: 16px 20px;
+  }
+  .request .radio_group .radio label img {
+    height: 20px;
+  }
+  .request .radio_group .radio label .checkmark {
+    width: 10px;
+    height: 10px;
+  }
+  .request .bottom button {
+    font-size: 14px;
+    padding: 14px 34px;
+  }
+  .request .row {
+    gap: 30px;
+  }
+  .request .col {
+    gap: 30px;
+  }
+  .detail {
+    padding: 100px 80px;
+    row-gap: 40px;
+  }
+  .detail .top .text {
+    font-size: 24px;
+  }
+  .detail .top .text span {
+    font-size: 14px;
+    padding: 8px;
+    gap: 4px;
+  }
+  .detail .top .text span img {
+    height: 20px;
+  }
+  .detail .top .price p {
+    font-size: 14px;
+  }
+  .detail .top .price h4 {
+    font-size: 20px;
+  }
+  .detail .img-container {
+    gap: 20px;
+    padding: 40px;
+  }
+  .detail .img-container .img_w {
+    gap: 20px;
+  }
+  .detail .img-container .img-bar {
+    padding: 10px;
+    gap: 10px;
+  }
+  .detail .img-container .img-bar img {
+    max-width: 122px;
+  }
+  .detail .img-container .img-view img {
+    max-width: 585px;
+  }
+  .detail .img-container .wrapper .img-controls {
+    padding: 8px;
+  }
+  .detail .img-container .wrapper .img-controls img {
+    padding: 10px;
+  }
+  .detail .img-container .wrapper .img-controls .lines {
+    gap: 3px;
+  }
+  .detail .img-container .wrapper .img-controls .lines span {
+    height: 3px;
+    width: 11px;
+  }
+  .detail .info {
+    gap: 20px;
+  }
+  .detail .info .desc {
+    padding: 40px;
+    gap: 40px;
+  }
+  .detail .info .desc .title {
+    font-size: 20px;
+  }
+  .detail .info .desc .desc_text {
+    font-size: 16px;
+  }
+  .detail .info .desc .items {
+    padding-top: 16px;
+  }
+  .detail .info .desc .items .item:nth-child(1) {
+    padding-right: 10px;
+    border-right: 1px solid var(--gray_15);
+  }
+  .detail .info .desc .items .item:nth-child(2) {
+    padding-right: 10px;
+    padding-left: 10px;
+    border-right: 1px solid var(--gray_15);
+  }
+  .detail .info .desc .items .item:nth-child(3) {
+    padding-left: 10px;
+  }
+  .detail .info .features {
+    padding: 40px;
+    gap: 40px;
+  }
+  .detail .info .features .title {
+    font-size: 20px;
+  }
+  .detail .info .features .items {
+    row-gap: 20px;
+  }
+  .detail .info .features .items .item {
+    padding: 14px 16px;
+    font-size: 16px;
+  }
+  .detail .info .features .items .item img {
+    height: 20px;
+  }
+  .inquire {
+    -moz-column-gap: 80px;
+         column-gap: 80px;
+  }
+  .inquire form {
+    padding: 50px;
+    gap: 30px;
+  }
+  .inquire form .bottom button {
+    font-size: 14px;
+    padding: 14px 34px;
+  }
+  .inquire form .row {
+    gap: 30px;
+  }
+  .inquire form .input_group {
+    row-gap: 14px;
+  }
+  .inquire form .input_group label {
+    font-size: 16px;
+  }
+  .inquire form .input_group input[type=text], .inquire form .input_group select, .inquire form .input_group textarea {
+    font-size: 14px;
+    padding: 16px 20px;
+  }
+  .inquire form .input_group.checkbox p {
+    font-size: 16px;
+  }
+  .inquire form .input_group.checkbox p .checkmark {
+    height: 24px;
+    width: 24px;
+  }
+  .pricing .notice {
+    padding: 20px 40px;
+  }
+  .pricing .notice .title {
+    font-size: 20px;
+    padding-right: 16px;
+  }
+  .pricing .notice .text {
+    font-size: 14px;
+    padding-left: 16px;
+  }
+  .pricing .content {
+    gap: 40px;
+  }
+  .pricing .content .price p {
+    font-size: 16px;
+  }
+  .pricing .content .price span {
+    font-size: 30px;
+  }
+  .pricing .content .details {
+    gap: 40px;
+  }
+  .pricing .content .details .box {
+    padding: 40px;
+    gap: 30px;
+  }
+  .pricing .content .details .box .header p {
+    font-size: 20px;
+  }
+  .pricing .content .details .box .header button {
+    padding: 14px 20px;
+    font-size: 14px;
+  }
+  .pricing .content .details .box .item {
+    gap: 12px;
+  }
+  .pricing .content .details .box .item label {
+    font-size: 14px;
+  }
+  .pricing .content .details .box .item p {
+    gap: 12px;
+    font-size: 20px;
+  }
+  .pricing .content .details .box .item p span {
+    padding: 6px 12px;
+    font-size: 14px;
+  }
+  .hero_services .text {
+    padding: 100px 80px;
+  }
+  .hero_services .text h2 {
+    font-size: 38px;
+    margin-bottom: 10px;
+  }
+  .hero_services .text p {
+    font-size: 16px;
+  }
+  .hero_services .sub .items .item {
+    padding: 30px 16px;
+  }
+  .hero_services .sub .items .item p {
+    font-size: 16px;
+  }
+  .hero_services .sub .items .item img {
+    height: 60px;
+  }
+  .property_ .row {
+    gap: 20px;
+  }
+  .property_ .wrapper {
+    gap: 20px;
+  }
+  .property_ .info {
+    padding: 40px;
+    gap: 20px;
+  }
+  .property_ .info .top p {
+    font-size: 24px;
+  }
+  .property_ .info p {
+    font-size: 16px;
+  }
+  .property_ .item {
+    padding: 40px;
+    gap: 20px;
+  }
+  .property_ .item p {
+    font-size: 18px;
+  }
+  .property_ .item .title {
+    gap: 18px;
+  }
+  .property_ .item .title p {
+    font-size: 20px;
+  }
+  .property_ .item .title img {
+    height: 60px;
+  }
+  .investment .text {
+    gap: 40px;
+  }
+  .investment .text .box {
+    padding: 40px;
+    gap: 20px;
+  }
+  .investment .text .box .title {
+    font-size: 22px;
+  }
+  .investment .text .box button {
+    padding: 14px 20px;
+    font-size: 14px;
+  }
+  .investment .row {
+    gap: 20px;
+  }
+  .investment .wrapper {
+    gap: 20px;
+  }
+  .investment .item {
+    padding: 40px;
+    gap: 20px;
+  }
+  .investment .item p {
+    font-size: 18px;
+  }
+  .investment .item .title {
+    gap: 18px;
+  }
+  .investment .item .title p {
+    font-size: 20px;
+  }
+  .investment .item .title img {
+    height: 60px;
+  }
+  .hero_contact .text {
+    padding: 100px 80px;
+  }
+  .hero_contact .text h2 {
+    font-size: 38px;
+    margin-bottom: 10px;
+  }
+  .hero_contact .text p {
+    font-size: 16px;
+  }
+  .hero_contact .sub .items .item {
+    padding: 30px 16px;
+  }
+  .hero_contact .sub .items .item p {
+    font-size: 16px;
+  }
+  .hero_contact .sub .items .item img {
+    height: 60px;
+  }
+  .contact form {
+    padding: 50px;
+    gap: 30px;
+  }
+  .contact .input_group {
+    row-gap: 14px;
+  }
+  .contact .input_group label {
+    font-size: 16px;
+  }
+  .contact .input_group input[type=text], .contact .input_group select, .contact .input_group textarea {
+    font-size: 14px;
+    padding: 16px 20px;
+  }
+  .contact .input_group.checkbox p {
+    font-size: 16px;
+  }
+  .contact .input_group.checkbox p .checkmark {
+    height: 24px;
+    width: 24px;
+  }
+  .contact .bottom button {
+    font-size: 14px;
+    padding: 14px 34px;
+  }
+  .contact .row {
+    gap: 30px;
+  }
+  .locations .selector button {
+    padding: 14px 20px;
+    font-size: 14px;
+  }
+  .locations .wrapper {
+    gap: 20px;
+  }
+  .locations .location {
+    padding: 40px;
+    gap: 30px;
+  }
+  .locations .location span {
+    font-size: 14px;
+  }
+  .locations .location .top {
+    gap: 10px;
+  }
+  .locations .location .title {
+    font-size: 24px;
+  }
+  .locations .location .text {
+    font-size: 16px;
+  }
+  .locations .location button {
+    padding: 14px 20px;
+    font-size: 14px;
+  }
+  .locations .location .pills {
+    gap: 8px;
+  }
+  .locations .location .pills .pill {
+    padding: 10px 16px;
+    gap: 4px;
+    font-size: 14px;
+  }
+  .locations .location .pills .pill img {
+    height: 20px;
+  }
+  .locations .img_container {
+    padding: 60px;
+  }
+  .locations .img_container img {
+    max-width: 569px;
+  }
+  .locations .img_container img.haf {
+    max-width: 274px;
+  }
+  section {
+    padding: 60px 80px;
+    row-gap: 60px;
+  }
+  section .text h2 {
+    font-size: 38px;
+    margin-bottom: 15px;
+  }
+  section .text p {
+    font-size: 16px;
+  }
+  section .top button {
+    font-size: 14px;
+    padding: 14px 20px;
+  }
+  section .cards {
+    -moz-column-gap: 20px;
+         column-gap: 20px;
+  }
+  section .cards .card {
+    padding: 30px;
+    row-gap: 20px;
+  }
+  section .pagination {
+    padding-top: 16px;
+  }
+  section .pagination p {
+    font-size: 16px;
+  }
+  section .pagination .arrows button {
+    padding: 10px;
+  }
+  section .pagination .arrows button img {
+    height: 24px;
+  }
+  footer .cta {
+    padding: 60px 80px;
+  }
+  footer .cta .content h2 {
+    font-size: 38px;
+    margin-bottom: 10px;
+  }
+  footer .cta .content p {
+    font-size: 16px;
+  }
+  footer .cta .btn {
+    padding: 14px 20px;
+    font-size: 14px;
+  }
+  footer .footer .top {
+    padding: 60px 80px;
+  }
+  footer .footer .top .left .logo {
+    height: 34px;
+    margin-bottom: 24px;
+  }
+  footer .footer .top .left .input_wrapper {
+    height: 52px;
+  }
+  footer .footer .top .left .input_wrapper input {
+    padding: 14px 20px;
+    font-size: 14px;
+  }
+  footer .footer .top .left .input_wrapper button img {
+    height: 24px;
+  }
+  footer .footer .top .right {
+    width: calc(100% - 326px);
+  }
+  footer .footer .top .right .item p {
+    font-size: 18px;
+    margin-bottom: 24px;
+  }
+  footer .footer .top .right .item ul li {
+    font-size: 16px;
+    margin-bottom: 16px;
+  }
+  footer .footer .bottom {
+    padding: 12px 80px;
+  }
+  footer .footer .bottom .left {
+    font-size: 14px;
+  }
+  footer .footer .bottom .right {
+    -moz-column-gap: 8px;
+         column-gap: 8px;
+  }
+  footer .footer .bottom .right img {
+    padding: 10px;
+  }
+  header .banner {
+    font-size: 14px;
+    height: 49px;
+  }
+  header nav {
+    padding: 14px 80px;
+    font-size: 14px;
+  }
+  header nav .logo img {
+    height: 34px;
+  }
+  header nav .links .link {
+    margin-inline: 12px;
+  }
+  header nav .btn {
+    padding: 14px 20px;
+  }
+}/*# sourceMappingURL=1440.css.map */
